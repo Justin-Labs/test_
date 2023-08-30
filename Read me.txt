@@ -8,3 +8,5 @@ git commit -m "added readme.txt"
 
 "new line here, saved file. then putting in git status in terminal
 gives no changes staged for commit"
+
+edit here done on github.com

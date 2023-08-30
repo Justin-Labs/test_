@@ -20,3 +20,13 @@ or
 followed by of course, git commit -m "made changes to Read me.txt"
 
 Now lets say we want to start a new branch...
+"git checkout -b new"
+
+new branch
+
+git add .
+git commit -m "first comment on new branch"
+
+to change branches type git checkout name_of_branch
+so..
+git checkout main

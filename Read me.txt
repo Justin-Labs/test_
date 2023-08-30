@@ -1,2 +1,10 @@
 git inti on command line to make folder a git repository
 
+git status on command line gives an summary of git repository
+
+git add "file name"
+
+git commit -m "added readme.txt"
+
+"new line here, saved file. then putting in git status in terminal
+gives no changes staged for commit"

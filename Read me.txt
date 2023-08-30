@@ -35,5 +35,5 @@ how do we update a branch with the master/ main branch..
 git merge master
 
 if we want to change our origin
-get remote set-url origin "https://github.com/....our directory...."
+git remote set-url origin "https://github.com/....our directory...."
 

@@ -1,0 +1,2 @@
+git inti on command line to make folder a git repository
+

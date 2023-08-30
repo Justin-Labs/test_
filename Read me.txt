@@ -30,3 +30,7 @@ git commit -m "first comment on new branch"
 to change branches type git checkout name_of_branch
 so..
 git checkout main
+
+how do we update a branch with the master/ main branch..
+git merge master
+
